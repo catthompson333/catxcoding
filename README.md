@@ -20,8 +20,8 @@
 - **COMING SOON:** 
 
 ## 📫 Connect With Me
-- **GitHub:** [@YourGitHub](https://github.com/catxcoding)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/catthompson333/)
+- **GitHub:** [@catxcoding](https://github.com/catxcoding)
+- **LinkedIn:** [catthompson333](https://www.linkedin.com/in/catthompson333/)
 - **Email:** hello@cat-thompson.com
 
 ## ⚡ A Little More About Me
