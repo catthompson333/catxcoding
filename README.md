@@ -11,9 +11,10 @@
 - 💬 Eager to discuss the art, design, astrology, fantasy and the Universe at large. 
 
 ## 💻 Tech Stack
-- **Frontend/Design:** HTML, CSS, JavaScript, React, Adobe Creative Suite and more
+- **Frontend/Design:** HTML, CSS, JavaScript, React, MUI, Adobe Creative Suite and more
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, SQL
+- **Other:** Heroku, Render...
 - **Interests:** Progressive web apps, user experience, and digital design. 
 
 ## 🎨 Projects & Passions
