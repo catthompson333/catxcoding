@@ -15,7 +15,8 @@
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, SQL
 - **Other:** Heroku, Render...
-- **Interests:** Progressive web apps, user experience, and digital design. 
+- **Interests:** Progressive web apps, user experience, and digital design.
+- **More of my TechStack:** [CLICK HERE](https://github.com/catxcoding/techstack)
 
 ## 🎨 Projects & Passions
 - **COMING SOON:** 
