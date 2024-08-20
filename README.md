@@ -22,7 +22,7 @@
 - **COMING SOON:** 
 
 ## 📫 Connect With Me
-- **GitHub:** [@catxcoding](https://github.com/catthompson333)
+- **GitHub:** [@catthompson333](https://github.com/catthompson333)
 - **LinkedIn:** [catthompson333](https://www.linkedin.com/in/catthompson333/)
 - **Email:** hello@cat-thompson.com
 
