@@ -4,7 +4,7 @@
 - 📍 San Diego, CA
 - 🖌 Transitioning from hairstyling to the world of coding, with a deep-seated passion for art and design.
 - 🌟 Amatuer Astrologer - Leo Sun / Aquarius Moon / Leo Rising / Virgo Mercury 
-- 🧘‍♀️ Currently obtaining 200 hour Yoga Teacher Certification 
+- 🧘‍♀️ Yogi -- 200 hour Yoga Teacher Certification 
 - 📸 Capturing life on film and digitally. Sitting in every film, analog photobooth I can find. 
 - 🌱 Journeying through the realms of full-stack development, with a mission to contribute to meaningful and forward-thinking projects.
 - 💾 Self-proclaimed tech nerd, always on the lookout for the latest gadgets and innovations in the tech world.
@@ -16,13 +16,13 @@
 - **Database:** MongoDB, SQL
 - **Other:** Heroku, Render...
 - **Interests:** Progressive web apps, user experience, and digital design.
-- **More of my TechStack:** [CLICK HERE](https://github.com/catxcoding/techstack)
+- **More of my TechStack:** [CLICK HERE](https://github.com/catthompson333/techstack)
 
 ## 🎨 Projects & Passions
 - **COMING SOON:** 
 
 ## 📫 Connect With Me
-- **GitHub:** [@catxcoding](https://github.com/catxcoding)
+- **GitHub:** [@catxcoding](https://github.com/catthompson333)
 - **LinkedIn:** [catthompson333](https://www.linkedin.com/in/catthompson333/)
 - **Email:** hello@cat-thompson.com
 
